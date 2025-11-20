@@ -1,0 +1,46 @@
+/**
+ * file: journal_karbytes_20november2025_p0.txt
+ * type: plain-text
+ * date: 20_NOVEMBER_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following table describes the order and contents of the two compact disc containers which contain backups of karbytes as karbytes is configured at 11:59PM Pacific Standard Time on 20_NOVEMBER_2025 and which are part of the time capsule which karbytes announced (in raw_github_files_directory_KARLINA_OBJECT_extension_pack_49) that would be created no later than 11:59PM Pacific Standard Time on 31_DECEMBER_2025 containing those two compact disc containers.
+
+The contents of karbytes2025 are defined by the following web page: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2025_22/
+
+The contents of karbytes2026_0 are defined by the following web page: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2026_0/
+
+The contents of karbytes_kernel_[21nov2025] are outlined by the following web page: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/karbytes_kernel_[20nov2025].txt
+
+To be clear, all content inside of raw_github_files_directory_KARLINA_OBJECT_extension_pack_50 which was created before 11:59PM Pacific Standard Time on 20_NOVEMBER_2025 was downloaded (from the respective public GitHub repository) as a zip file which was renamed karbytes_kernel_[21nov2025].zip. That zip file is one of three zip files listed in the preformatted text table below (and which pertain to the aforementioned definition web pages).
+
+========================================================================================================
+
+KARBYTES_ORIGINS Time Capsule Contents (31_DECEMBER_2025):
+
+========================================================================================================
+
+layer | container_0                     | container_1
+------|---------------------------------|---------------------------------------------------------------
+0     | karbytes2025_22                 | karbytes2025_22
+1     | karbytes2025_22                 | karbytes2025_22
+2     | karbytes2025_22                 | karbytes2025_22
+3     | karbytes2025_22                 | karbytes2025_22
+4     | karbytes2025_22                 | karbytes2025_22
+5     | karbytes2026_0_[19nov2025]      | karbytes2026_0_[19nov2025] 
+6     | karbytes2026_0_[19nov2025]      | karbytes2026_0_[19nov2025] 
+7     | karbytes2026_0_[19nov2025]      | karbytes2026_0_[19nov2025] 
+8     | karbytes_kernel_[21nov2025]     | karbytes2026_0_[19nov2025] 
+9     | karbytes_kernel_[21nov2025]     | karbytes2026_0_[19nov2025] 
+10    | karbytes_kernel_[21nov2025]     | karbytes_kernel_[21nov2025]
+11    | karbytes_kernel_[21nov2025]     | karbytes2025_22
+
+========================================================================================================
+
+End of KARBYTES_ORIGINS Time Capsule Contents
+
+========================================================================================================
+
+
