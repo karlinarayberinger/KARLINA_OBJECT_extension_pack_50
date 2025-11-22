@@ -6,45 +6,45 @@ This Python program prints the names and file sizes (in megabytes) of each file 
 
 Directory: karbytes2026_0
 
-file_0: karbytes_wayback_machine_saves_precision_batches_extension_1-main_20november2025.zip // 0.01 megabytes
+file_0: KARBYTES_BLOG_APPS-main_31december2025.zip // 541.86 megabytes
 
-file_1: KARBYTES_BLOG_APPS-main_31december2025.zip // 541.86 megabytes
+file_1: karbytes_wayback_machine_saves_precision_batches_extension_1-main_22november2025.zip // 0.01 megabytes
 
-file_2: KARLINA_OBJECT_extension_pack_50-main_20november2025.zip // 13.71 megabytes
+file_2: karbytes_23AndMe_Ancestry_Data-main.zip // 6.45 megabytes
 
-file_3: karbytes_23AndMe_Ancestry_Data-main.zip // 6.45 megabytes
+file_3: KARLINA_OBJECT_extension_pack_49-main.zip // 297.60 megabytes
 
-file_4: KARLINA_OBJECT_extension_pack_49-main.zip // 297.60 megabytes
+file_4: karbytes_dark_websites-main.zip // 0.28 megabytes
 
-file_5: karbytes_dark_websites-main.zip // 0.28 megabytes
+file_5: KARLINA_OBJECT-main.zip // 206.49 megabytes
 
-file_6: KARLINA_OBJECT-main.zip // 206.49 megabytes
+file_6: karbytes_human_genome_fasta_part_0-main.zip // 4955.28 megabytes
 
-file_7: karbytes_human_genome_fasta_part_0-main.zip // 4955.28 megabytes
+file_7: the_big_green_thing_2025-main.zip // 893.34 megabytes
 
-file_8: the_big_green_thing_2025-main.zip // 893.34 megabytes
+file_8: KARBYTES_FOR_LIFE_BLOG-main_31december2025.zip // 0.72 megabytes
 
-file_9: KARBYTES_FOR_LIFE_BLOG-main_31december2025.zip // 0.72 megabytes
+file_9: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_31december2025.zip // 255.46 megabytes
 
-file_10: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_31december2025.zip // 255.46 megabytes
+file_10: karbytes_human_genome_fasta_part_2-main.zip // 3500.19 megabytes
 
-file_11: karbytes_human_genome_fasta_part_2-main.zip // 3500.19 megabytes
+file_11: reference_human_genome_fasta_hg38-main.zip // 937.32 megabytes
 
-file_12: reference_human_genome_fasta_hg38-main.zip // 937.32 megabytes
+file_12: karbytes_wayback_machine_saves_precision_batches-main.zip // 0.79 megabytes
 
-file_13: karbytes_wayback_machine_saves_precision_batches-main.zip // 0.79 megabytes
+file_13: karbytes_human_genome_fasta_part_3-main.zip // 1989.26 megabytes
 
-file_14: karbytes_human_genome_fasta_part_3-main.zip // 1989.26 megabytes
+file_14: karbytes_human_genome_fasta_part_1-main.zip // 4545.25 megabytes
 
-file_15: karbytes_human_genome_fasta_part_1-main.zip // 4545.25 megabytes
+file_15: karbytes_wayback_machine_saves_precision_batches_extension_0-main_31december2025.zip // 0.15 megabytes
 
-file_16: karbytes_wayback_machine_saves_precision_batches_extension_0-main_31december2025.zip // 0.15 megabytes
+file_16: KARLINA_OBJECT_APPS-main.zip // 22.84 megabytes
 
-file_17: KARLINA_OBJECT_APPS-main.zip // 22.84 megabytes
+file_17: KARBYTES_BLOG_APPS_github_hosted_website-main_31december2025.zip // 46.44 megabytes
 
-file_18: KARBYTES_BLOG_APPS_github_hosted_website-main_31december2025.zip // 46.44 megabytes
+file_18: karbytes_test_github_hosted_website-main.zip // 22.51 megabytes
 
-file_19: karbytes_test_github_hosted_website-main.zip // 22.51 megabytes
+file_19: KARLINA_OBJECT_extension_pack_50-main_22november2025.zip // 13.71 megabytes
 
 --------------------------------
 
