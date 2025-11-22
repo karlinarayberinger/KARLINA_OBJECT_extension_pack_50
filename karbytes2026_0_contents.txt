@@ -44,12 +44,12 @@ file_17: KARBYTES_BLOG_APPS_github_hosted_website-main_31december2025.zip // 46.
 
 file_18: karbytes_test_github_hosted_website-main.zip // 22.51 megabytes
 
-file_19: KARLINA_OBJECT_extension_pack_50-main_22november2025.zip // 13.71 megabytes
+file_19: KARLINA_OBJECT_extension_pack_50-main_22november2025.zip // 17.39 megabytes
 
 --------------------------------
 
 Total number of files: 20
 
-Total folder size: 18235.95 megabytes
+Total folder size: 18239.63 megabytes
 
 --------------------------------
