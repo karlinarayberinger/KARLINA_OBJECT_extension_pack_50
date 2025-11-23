@@ -34,7 +34,7 @@ file_12: karbytes_wayback_machine_saves_precision_batches-main.zip // SHA-256: 0
 
 file_13: karbytes_human_genome_fasta_part_3-main.zip // SHA-256: 6a1784e76fe015a7d65802819fab73433c5f3208af111d561ab715d740c98e9c
 
-file_14: KARLINA_OBJECT_extension_pack_50-main_23november2025.zip // SHA-256: 07516760099d4d8a840aad5c4e812f31b30d235adac20e24e95a31255b8c7aae
+file_14: KARLINA_OBJECT_extension_pack_50-main_23november2025.zip // SHA-256: 125aa51c743a7f812123ead566ff35f95184e041a73231a2a59873216feb1787
 
 file_15: karbytes_human_genome_fasta_part_1-main.zip // SHA-256: d7244d820a119b4b267aea7bf8104d0c7a0e03854c3319a7a7f03264085ce772
 
@@ -46,10 +46,8 @@ file_18: KARBYTES_BLOG_APPS_github_hosted_website-main_31december2025.zip // SHA
 
 file_19: karbytes_test_github_hosted_website-main.zip // SHA-256: c45fbb2f50d30430efcc1c0529d53c23b3a50ac7558a876efc349e448fc03017
 
-file_20: KARLINA_OBJECT_extension_pack_50-main_22november2025.zip // SHA-256: df7a02126431d654ef5c38f8aa120685c2974d23f60d314175e321f6f9c9d290
-
 --------------------------------
 
-Total number of files processed: 21
+Total number of files processed: 20
 
 --------------------------------
