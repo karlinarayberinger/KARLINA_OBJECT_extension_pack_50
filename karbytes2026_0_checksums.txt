@@ -14,7 +14,7 @@ file_2: KARLINA_OBJECT_extension_pack_49-main.zip // SHA-256: 78a2da229d94f28967
 
 file_3: karbytes_dark_websites-main.zip // SHA-256: e7040d2be96177060074883447a0f4f44b7cef4f4614ae33e676b498002d2c90
 
-file_4: KARLINA_OBJECT_extension_pack_50-main_26november2025.zip // SHA-256: 72abd60df158cb4c2e3cb14f264af42d9ea45f98fb117a07be62641a72f425ac
+file_4: KARLINA_OBJECT_extension_pack_50-main_26november2025.zip // SHA-256: b01897526623fabcb0a9da6b92204905cfe21454ce8d22977b77c40ae4e1fb02
 
 file_5: KARLINA_OBJECT-main.zip // SHA-256: 032a91e717549d9153873c9e3dfe737b1b3ed2489acf338869354a240e754952
 
