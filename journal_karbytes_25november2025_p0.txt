@@ -1,3 +1,11 @@
+/**
+ * file: journal_karbytes_25november2025_p0.txt
+ * type: plain-text
+ * date: 25_NOVEMBER_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
 0 = 0 // true if abstract
 
 0 != 0 // true if physical 
