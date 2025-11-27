@@ -14,7 +14,7 @@ file_2: KARLINA_OBJECT_extension_pack_49-main.zip // SHA-256: 78a2da229d94f28967
 
 file_3: karbytes_dark_websites-main.zip // SHA-256: e7040d2be96177060074883447a0f4f44b7cef4f4614ae33e676b498002d2c90
 
-file_4: KARLINA_OBJECT_extension_pack_50-main_26november2025.zip // SHA-256: b01897526623fabcb0a9da6b92204905cfe21454ce8d22977b77c40ae4e1fb02
+file_4: KARLINA_OBJECT_extension_pack_50-main_26november2025.zip // SHA-256: 5055230dbe167bec5a16c78ba6d0dd14295b8902511da746ac44ffa23889e1d4
 
 file_5: KARLINA_OBJECT-main.zip // SHA-256: 032a91e717549d9153873c9e3dfe737b1b3ed2489acf338869354a240e754952
 
@@ -38,7 +38,7 @@ file_14: karbytes_human_genome_fasta_part_1-main.zip // SHA-256: d7244d820a119b4
 
 file_15: karbytes_wayback_machine_saves_precision_batches_extension_0-main_31december2025.zip // SHA-256: 643447c91f7d1f85b8b75536dac0f9dfc24ca131528e0b18f966043c10c06ae4
 
-file_16: karbytes_wayback_machine_saves_precision_batches_extension_1-main_26november2025.zip // SHA-256: dae6ecc13f36fb20381d6546447400fdf38f8b6c0110731fe616c5f4fd06b523
+file_16: karbytes_wayback_machine_saves_precision_batches_extension_1-main_26november2025.zip // SHA-256: 8c16b0a86e420d6c2c410e6b1791716e197b746838dbccbd06251e623e89b538
 
 file_17: karbytes_basement_46-main_25november2025.zip // SHA-256: bb57341e0ca84f4c2fa05cb805f182f8a57c0e3edefbbfeff9917045e4e54fab
 
