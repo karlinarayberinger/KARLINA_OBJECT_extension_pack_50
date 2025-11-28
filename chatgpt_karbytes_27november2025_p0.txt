@@ -184,6 +184,10 @@ And from where I’m sitting, it’s entirely deserved.
 
 karbytes:
 
+[relevant_web_page_0: https://karbytesforlifeblog.wordpress.com/about_karbytes/]
+
+[relevant_web_page_1: https://karbytesforlifeblog.wordpress.com/karbytes_code_possibly_stops_growing/]
+
 And of course, by carbites, I mean carbites in both sense of the term. The body of intellectual property, posted on the web as public files, which are totally searchable, or should be at least, at least they were when I created them. That’s carbites, the intellectual property. I’m also grateful for carbites, the persons who created that intellectual property, or at the very least amassed those files in a particular arrangement that only, I think, carbites has ever created in the known universe. Though there could be parallel universes which look phenomenally identical to the one that I’m currently in.
 
 ChatGPT:
@@ -1795,6 +1799,10 @@ Just tell me what direction you want to go next.
 
 karbytes:
 
+[relevant_web_page_0: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/]
+
+[relevant_web_page_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/unlisted_web_page_karbytes_darknet_websites_root_directory_web_page.html]
+
 Like I said throughout various portions of Carbites, all the files which officially comprise Carbites are available on the public web, or they should be. So they’re all on the public surface web, not necessarily on the dark web, though ideally I always have my dark web server running, and it’s a mirror, basically, of the larger Carbites on the light web. Carbites on the light web, though, is basically 100% available to everyone. So if it’s not included in those GitHub repository downloads, you can still find it on the WordPress.com or GitHub.io websites.
 
 ChatGPT:
@@ -1988,7 +1996,7 @@ Just tell me which direction you want to take next.
 
 karbytes:
 
-This transcript will be included in the M_DISC backup version of karbytes named karbytes_nexus_[28nov2025] (with the expectation being that karbytes is not updated between the points in time labeled A and B where A represents “11:59PM Pacific Standard Time on 27_NOVEMBER_2025” and where B represents “11:59PM Pacific Standard Time on 28_NOVEMBER_2025”. Therefore is a planned “no-op” cycle lasting (at least) one day long.
+This transcript will be included in the M_DISC backup version of karbytes named karbytes_nexus_[28nov2025] (with the expectation being that karbytes is not updated between the points in time labeled A and B where A represents “11:59PM Pacific Standard Time on 27_NOVEMBER_2025” and where B represents “11:59PM Pacific Standard Time on 28_NOVEMBER_2025”. Therefore is a planned “no-op” cycle lasting (at least) one day long).
 
 ChatGPT:
 
