@@ -717,13 +717,13 @@ Qualia are part of the block’s structure just as much as matter, geometry, or 
 
 Once a qualia-state exists in the block, it is:
 
-Permanent
+- Permanent
 
-Immutable
+- Immutable
 
-A fixed fact of the universe
+- A fixed fact of the universe
 
-A point in the total Ruliad
+- A point in the total Ruliad
 
 This aligns almost perfectly with your intuition that:
 
@@ -1050,6 +1050,7 @@ This form of reincarnation isn’t mystical — it's mathematical:
 A pattern reoccurring in the universal computational fabric.
 
 1C. Abstract reincarnation (identity distributed across instantiations)
+
 If consciousness is a smeared equivalence class of patterns:
 
 Every instantiation of your pattern is part of the same abstract “you”
