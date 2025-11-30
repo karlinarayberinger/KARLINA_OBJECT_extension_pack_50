@@ -22,11 +22,11 @@ file_6: karbytes_wayback_machine_saves_precision_batches_extension_1-main_29nove
 
 file_7: the_big_green_thing_2025-main.zip // SHA-256: 06d428dc8abb478c4116ddd9583723c870409f0e234cef777a14abe57ca2d7ab
 
-file_8: KARBYTES_FOR_LIFE_BLOG-main_31december2025.zip // SHA-256: 840f7c29d048fba41efc29bf68d247bc5eab50c5d3f78b075a685d9ce8575743
+file_8: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_31december2025.zip // SHA-256: 14106852dcf55579982c48a6c1c2d48ba76bdfece26aece07df429aa66319301
 
-file_9: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_31december2025.zip // SHA-256: 14106852dcf55579982c48a6c1c2d48ba76bdfece26aece07df429aa66319301
+file_9: KARBYTES_FOR_LIFE_BLOG-main_29november2025.zip // SHA-256: 36e62b2da93c608a9f33c7a8a533cd5501c45e9c4e42688b9fc53004522682fe
 
-file_10: KARLINA_OBJECT_extension_pack_50-main_29november2025.zip // SHA-256: b2a161c6bcd4368566dcd8a446b8cf5dc765b03d3b9007b7de7900bf66b9c862
+file_10: KARLINA_OBJECT_extension_pack_50-main_29november2025.zip // SHA-256: 5ec324b137b3426e6ec2944f498bd68c2ed5710a20935cbc61495a99e8aa310b
 
 file_11: karbytes_human_genome_fasta_part_2-main.zip // SHA-256: 4e62654721dc5fb1a0c1507ac2f686fa0219f73a93d5d3d135c3e12ac62e74a2
 
