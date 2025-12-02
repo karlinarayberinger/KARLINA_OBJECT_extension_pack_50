@@ -1,0 +1,21 @@
+/**
+ * file: journal_karbytes_02december2025_p0.txt
+ * type: plain-text
+ * date: 02_DECEMBER_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes_0: "I am in the process of making money; not just distributing money."
+
+karbytes_1: "Do you mean to imply that you are laundering money (i.e. printing more currency (i.e. fiat and/or crypto units of currency) than what is currently in circulation or storage in the global (human) economy)?"
+
+karbytes_0: "No, I mean to suggest that I literally add value to that (apparently closed) system by subtly making the (variable) 'intrinsic' value of each unit-sized piece of its currency accrue more value than what was "in" those units of currency before I did whatever processes I did which caused the quality of the (average) 'user experience' to increase (however meagerly) in response to using that currency (especially by not merely holding onto that currency in storage, but also and especially, by spending that money on products and services which maintain or increase that spender's own subjective sense of it having "quality of life" in its own succession of experiences (especially as a result of such purchases)."
+
+karbytes_1: "Are you suggesting that you increase the value of what is being circulated in the respective economy merely by being a savvy consumer?"
+
+karbytes_0: "Mostly yes, I do mean to imply that my primary function to society (as a human individual) is what is considered to be the average or default function of a human individual within its respective society: be a savvy consumer who helps to keep marketable products and services in demand (and therefore existant)."
+
+karbytes_1: "I see."
+
+karbytes_0: "In a nutshell, what I am attempting to accomplish regularly (from my end) is making it seem like I am getting more (monetizeable) value out of my purchases and investments/labor than what I put in (and personally sacrifice or perceive as a "loss" of "value" (especially in terms of "quality of life"))."
