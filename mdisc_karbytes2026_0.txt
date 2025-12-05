@@ -400,7 +400,7 @@ karbytes2026_0: // folder contains exactly 21 files (approximately 18365.58 mega
 
     - zip_file_5: KARBYTES_OBJECT-main.zip // 216.5 megabytes
 
-    - zip_file_6: KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 754.7 kilobytes
+    - zip_file_6: KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 754.8 kilobytes
 
     - zip_file_7: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_[undefined_day].zip // 267.9 megabytes
 
